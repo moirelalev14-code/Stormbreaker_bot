@@ -1,0 +1,12 @@
+C:\Users\lady samoa 4\Documents\cAlgo\Sources\Robots\Stormbreaker_bot\Stormbreaker_bot\bin\Debug\net6.0\Stormbreaker_bot.deps.json
+C:\Users\lady samoa 4\Documents\cAlgo\Sources\Robots\Stormbreaker_bot\Stormbreaker_bot\bin\Debug\net6.0\Stormbreaker_bot.dll
+C:\Users\lady samoa 4\Documents\cAlgo\Sources\Robots\Stormbreaker_bot\Stormbreaker_bot\bin\Debug\net6.0\Stormbreaker_bot.pdb
+C:\Users\lady samoa 4\Documents\cAlgo\Sources\Robots\Stormbreaker_bot\Stormbreaker_bot\obj\Debug\net6.0\Stormbreaker_bot.csproj.AssemblyReference.cache
+C:\Users\lady samoa 4\Documents\cAlgo\Sources\Robots\Stormbreaker_bot\Stormbreaker_bot\obj\Debug\net6.0\Stormbreaker_bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lady samoa 4\Documents\cAlgo\Sources\Robots\Stormbreaker_bot\Stormbreaker_bot\obj\Debug\net6.0\Stormbreaker_bot.AssemblyInfoInputs.cache
+C:\Users\lady samoa 4\Documents\cAlgo\Sources\Robots\Stormbreaker_bot\Stormbreaker_bot\obj\Debug\net6.0\Stormbreaker_bot.AssemblyInfo.cs
+C:\Users\lady samoa 4\Documents\cAlgo\Sources\Robots\Stormbreaker_bot\Stormbreaker_bot\obj\Debug\net6.0\Stormbreaker_bot.csproj.CoreCompileInputs.cache
+C:\Users\lady samoa 4\Documents\cAlgo\Sources\Robots\Stormbreaker_bot\Stormbreaker_bot\obj\Debug\net6.0\Stormbreaker_bot.dll
+C:\Users\lady samoa 4\Documents\cAlgo\Sources\Robots\Stormbreaker_bot\Stormbreaker_bot\obj\Debug\net6.0\refint\Stormbreaker_bot.dll
+C:\Users\lady samoa 4\Documents\cAlgo\Sources\Robots\Stormbreaker_bot\Stormbreaker_bot\obj\Debug\net6.0\Stormbreaker_bot.pdb
+C:\Users\lady samoa 4\Documents\cAlgo\Sources\Robots\Stormbreaker_bot\Stormbreaker_bot\obj\Debug\net6.0\ref\Stormbreaker_bot.dll
